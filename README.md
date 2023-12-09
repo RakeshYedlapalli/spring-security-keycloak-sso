@@ -1,2 +1,2 @@
-# spring-security-keycloak-sso
-This is where spring security with keycloak vendor
+# spring-boot-keycloak
+Securing Spring Boot REST APIs with Keycloak
